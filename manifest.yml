@@ -3,3 +3,8 @@ applications:
  - name: movies-review-database-273
    random-route: true
    memory: 128M
+services:
+ - cloudappdev-bala-cloudant
+ - cloudappdev-bala-nlu
+
+   
